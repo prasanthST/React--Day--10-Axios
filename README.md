@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # User Management Application
 This is a User Management Application built using React, React Router, and Axios for API interactions. The application allows you to perform CRUD (Create, Read, Update, Delete) operations on a list of users. The user data is fetched from a mock API, and the application uses React's useReducer hook to manage the state of the users.
 
@@ -53,4 +50,4 @@ This component handles the form for adding and editing users. It uses the useLoc
 
 ## Conclusion
 This application demonstrates how to build a simple CRUD application using React, React Router, and Axios. It also shows how to manage state using the useReducer hook and how to handle routing and form submissions in a React application.
->>>>>>> f89bd7caa38bcb3cb0fdca580cfd2f3b7a0beaed
+
